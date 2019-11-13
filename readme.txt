@@ -6,7 +6,7 @@ Tested up to: 5.2
 Stable tag: 2.0.1
 License: GPL-2.0+
 WC requires at least: 3.0
-WC tested up to: 3.6
+WC tested up to: 3.8
 
 Accept credit card and PayPal payment in your WooCommerce powered store via 2Checkout.
 
